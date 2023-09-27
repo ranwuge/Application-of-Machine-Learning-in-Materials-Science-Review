@@ -1,1 +1,1 @@
-# Application-Machine-Learning-Materials-Science-Review
+# Application-of-Machine-Learning-in-Materials-Science-Review
